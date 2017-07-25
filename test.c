@@ -13,3 +13,8 @@ void changeTset(int num)
 
 
 }
+
+void ceshiLog
+{
+    printf("输出文件对应路径");
+}
