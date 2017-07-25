@@ -4,3 +4,12 @@ int main(int argc, char const *argv[])
 	int b = 3;
 	return 0;
 }
+
+
+void changeTset(int num)
+{
+	num + 5;
+	printf("输出%d", num);
+
+
+}
